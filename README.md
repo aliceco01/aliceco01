@@ -2,7 +2,6 @@
 
 I am a senior DevOps Cloud Engineer with extensive experience architecting and implementing scalable, robust, and sophisticated cloud solutions. My professional background focuses heavily on advanced cloud architectures, infrastructure automation, observability, and anomaly detection using hybrid machine learning frameworks.
 
-Currently, I am also engaged in space-related projects as part of my role within the AWS Professional Services team.
 
 ## Current Projects
 
