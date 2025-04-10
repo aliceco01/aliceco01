@@ -34,14 +34,6 @@ Implemented a robust monitoring and visualization solution for tracking performa
 
 Designed and implemented a comprehensive endpoint protection solution that provides real-time threat detection and response capabilities. Leveraging advanced monitoring techniques, it ensures secure and resilient cloud infrastructure.
 
-## Professional Skills
-
-- **Cloud Platforms:** Amazon Web Services (AWS), Microsoft Azure
-- **Infrastructure as Code:** Terraform, AWS CloudFormation
-- **Containerization:** Kubernetes (EKS, AKS), Docker
-- **Continuous Integration & Delivery (CI/CD):** Azure DevOps, GitHub Actions
-- **Observability & Monitoring:** Prometheus, Grafana, AWS CloudWatch
-- **Programming Languages:** Python, Bash
 
 ## Contact Information
 
