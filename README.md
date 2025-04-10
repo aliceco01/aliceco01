@@ -39,4 +39,4 @@ I am open to discussing collaboration, research initiatives, and professional op
 
 - [LinkedIn](https://www.linkedin.com/in/alicecohen)
 - [Medium](https://medium.com/@aliceco01)
-- 
+  
