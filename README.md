@@ -6,7 +6,7 @@ I am a senior DevOps Cloud Engineer with extensive experience architecting and i
 ## Current Projects
 
 
-### [Adaptive Multi-Modal Anomaly Detection](https://github.com/aliceco01/adaptive-anomaly-detection)
+### [Multi Cloud Adaptive Multi-Modal Anomaly Detection](https://github.com/aliceco01/adaptive-anomaly-detection)
 
 An advanced framework designed for real-time anomaly detection across heterogeneous cloud environments. This system employs self-evolving hybrid machine learning techniques, integrating Isolation Forest, Autoencoders, and Support Vector Machines (SVM) to correlate and interpret diverse telemetry streams (metrics, logs, traces) to ensure operational resilience and proactive incident response.
 
