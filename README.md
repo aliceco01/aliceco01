@@ -5,7 +5,6 @@ I am a senior DevOps Cloud Engineer with extensive experience architecting and i
 
 ## Current Projects
 
-Note: Some of the projects listed below are not yet reflected on Github; they will be updated shortly.
 
 ### [Adaptive Multi-Modal Anomaly Detection](https://github.com/aliceco01/adaptive-anomaly-detection)
 
