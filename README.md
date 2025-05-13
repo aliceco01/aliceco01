@@ -1,4 +1,3 @@
-# Alice Cohen
 
 I am a senior DevOps Cloud Engineer with extensive experience architecting and implementing scalable, robust, and sophisticated cloud solutions. My professional background focuses heavily on advanced cloud architectures, infrastructure automation, observability, and anomaly detection using hybrid machine learning frameworks.
 
